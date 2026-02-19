@@ -1,0 +1,141 @@
+2026-02-19T23:25:04.026+0530 [INFO]  Terraform version: 1.9.4
+2026-02-19T23:25:04.026+0530 [INFO]  Go runtime version: go1.22.5
+2026-02-19T23:25:04.026+0530 [INFO]  CLI args: []string{"C:\\Users\\Admin\\Downloads\\terraform_1.9.4_windows_amd64\\terraform.exe", "init"}
+2026-02-19T23:25:04.040+0530 [INFO]  CLI command args: []string{"init"}
+2026-02-19T23:25:50.047+0530 [INFO]  Terraform version: 1.9.4
+2026-02-19T23:25:50.049+0530 [INFO]  Go runtime version: go1.22.5
+2026-02-19T23:25:50.049+0530 [INFO]  CLI args: []string{"C:\\Users\\Admin\\Downloads\\terraform_1.9.4_windows_amd64\\terraform.exe", "init"}
+2026-02-19T23:25:50.055+0530 [INFO]  CLI command args: []string{"init"}
+2026-02-19T23:26:06.478+0530 [INFO]  Terraform version: 1.9.4
+2026-02-19T23:26:06.478+0530 [INFO]  Go runtime version: go1.22.5
+2026-02-19T23:26:06.478+0530 [INFO]  CLI args: []string{"C:\\Users\\Admin\\Downloads\\terraform_1.9.4_windows_amd64\\terraform.exe", "init"}
+2026-02-19T23:26:06.488+0530 [INFO]  CLI command args: []string{"init"}
+2026-02-19T23:27:15.310+0530 [INFO]  Terraform version: 1.9.4
+2026-02-19T23:27:15.321+0530 [INFO]  Go runtime version: go1.22.5
+2026-02-19T23:27:15.321+0530 [INFO]  CLI args: []string{"C:\\Users\\Admin\\Downloads\\terraform_1.9.4_windows_amd64\\terraform.exe", "init"}
+2026-02-19T23:27:15.333+0530 [INFO]  CLI command args: []string{"init"}
+2026-02-19T23:27:24.738+0530 [INFO]  Terraform version: 1.9.4
+2026-02-19T23:27:24.740+0530 [INFO]  Go runtime version: go1.22.5
+2026-02-19T23:27:24.740+0530 [INFO]  CLI args: []string{"C:\\Users\\Admin\\Downloads\\terraform_1.9.4_windows_amd64\\terraform.exe", "init", "-upgrade"}
+2026-02-19T23:27:24.749+0530 [INFO]  CLI command args: []string{"init", "-upgrade"}
+2026-02-19T23:28:00.111+0530 [INFO]  Terraform version: 1.9.4
+2026-02-19T23:28:00.112+0530 [INFO]  Go runtime version: go1.22.5
+2026-02-19T23:28:00.112+0530 [INFO]  CLI args: []string{"C:\\Users\\Admin\\Downloads\\terraform_1.9.4_windows_amd64\\terraform.exe", "init", "-reconfigure"}
+2026-02-19T23:28:00.122+0530 [INFO]  CLI command args: []string{"init", "-reconfigure"}
+2026-02-19T23:28:32.102+0530 [INFO]  Terraform version: 1.9.4
+2026-02-19T23:28:32.103+0530 [INFO]  Go runtime version: go1.22.5
+2026-02-19T23:28:32.103+0530 [INFO]  CLI args: []string{"C:\\Users\\Admin\\Downloads\\terraform_1.9.4_windows_amd64\\terraform.exe", "init"}
+2026-02-19T23:28:32.110+0530 [INFO]  CLI command args: []string{"init"}
+2026-02-19T23:28:32.169+0530 [INFO]  backend-s3.aws-base: Retrieved credentials: tf_backend.operation=Configure tf_backend.req_id=c30a1c96-bdf1-4b9d-2ce8-4fc1fcb4ffcd tf_backend.s3.bucket=s3-remotestate-terraform tf_backend.s3.path=vpc-module-state tf_aws.credentials_source="SharedConfigCredentials: C:\Users\Admin\.aws\credentials"
+2026-02-19T23:28:34.329+0530 [INFO]  backend-s3.aws-base: Retrieved caller identity from STS: tf_backend.operation=Configure tf_backend.req_id=c30a1c96-bdf1-4b9d-2ce8-4fc1fcb4ffcd tf_backend.s3.bucket=s3-remotestate-terraform tf_backend.s3.path=vpc-module-state
+2026-02-19T23:28:34.651+0530 [INFO]  backend-s3.aws-base: Retrieved caller identity from STS: tf_backend.operation=Configure tf_backend.req_id=c30a1c96-bdf1-4b9d-2ce8-4fc1fcb4ffcd tf_backend.s3.bucket=s3-remotestate-terraform tf_backend.s3.path=vpc-module-state
+2026-02-19T23:28:36.160+0530 [INFO]  backend-s3: Downloading remote state: tf_backend.operation=Get tf_backend.req_id=eff6edcc-6c36-d201-8679-6439fddbf5a2 tf_backend.s3.bucket=s3-remotestate-terraform tf_backend.s3.path=vpc-module-state
+2026-02-19T23:39:30.009+0530 [INFO]  Terraform version: 1.9.4
+2026-02-19T23:39:30.073+0530 [INFO]  Go runtime version: go1.22.5
+2026-02-19T23:39:30.073+0530 [INFO]  CLI args: []string{"C:\\Users\\Admin\\Downloads\\terraform_1.9.4_windows_amd64\\terraform.exe", "plan"}
+2026-02-19T23:39:30.104+0530 [INFO]  CLI command args: []string{"plan"}
+2026-02-19T23:39:30.254+0530 [INFO]  backend-s3.aws-base: Retrieved credentials: tf_backend.operation=Configure tf_backend.req_id=4d1b7dfb-8cce-84de-34ae-2421ed3cee28 tf_backend.s3.bucket=s3-remotestate-terraform tf_backend.s3.path=vpc-module-state tf_aws.credentials_source="SharedConfigCredentials: C:\Users\Admin\.aws\credentials"
+2026-02-19T23:39:32.964+0530 [INFO]  backend-s3.aws-base: Retrieved caller identity from STS: tf_backend.operation=Configure tf_backend.req_id=4d1b7dfb-8cce-84de-34ae-2421ed3cee28 tf_backend.s3.bucket=s3-remotestate-terraform tf_backend.s3.path=vpc-module-state
+2026-02-19T23:39:34.328+0530 [INFO]  backend-s3.aws-base: Retrieved caller identity from STS: tf_backend.operation=Configure tf_backend.req_id=4d1b7dfb-8cce-84de-34ae-2421ed3cee28 tf_backend.s3.bucket=s3-remotestate-terraform tf_backend.s3.path=vpc-module-state
+2026-02-19T23:39:42.704+0530 [INFO]  backend/local: starting Plan operation
+2026-02-19T23:39:43.847+0530 [INFO]  backend-s3: Downloading remote state: tf_backend.operation=Get tf_backend.req_id=274ea520-2523-a416-8fee-f18d303d059a tf_backend.s3.bucket=s3-remotestate-terraform tf_backend.s3.path=vpc-module-state
+2026-02-19T23:39:44.203+0530 [INFO]  provider: configuring client automatic mTLS
+2026-02-19T23:39:44.899+0530 [INFO]  provider.terraform-provider-aws_v6.33.0_x5.exe: configuring server automatic mTLS: timestamp="2026-02-19T23:39:44.898+0530"
+2026-02-19T23:39:48.008+0530 [INFO]  provider: plugin process exited: plugin=.terraform/providers/registry.terraform.io/hashicorp/aws/6.33.0/windows_amd64/terraform-provider-aws_v6.33.0_x5.exe id=10924
+2026-02-19T23:39:48.086+0530 [INFO]  provider: configuring client automatic mTLS
+2026-02-19T23:39:48.543+0530 [INFO]  provider.terraform-provider-aws_v6.33.0_x5.exe: configuring server automatic mTLS: timestamp="2026-02-19T23:39:48.542+0530"
+2026-02-19T23:39:49.211+0530 [ERROR] provider.terraform-provider-aws_v6.33.0_x5.exe: Response contains error diagnostic: diagnostic_detail="" tf_req_id=b40db94a-5133-f33a-94d1-19993036153a tf_resource_type=aws_vpc tf_rpc=ValidateResourceTypeConfig tf_provider_addr=registry.terraform.io/hashicorp/aws diagnostic_attribute="AttributeName(\"cidr_block\")" diagnostic_severity=ERROR diagnostic_summary="expected cidr_block to contain a valid Value, got: var.vpc_cidr with err: invalid CIDR address: var.vpc_cidr" @caller=github.com/hashicorp/terraform-plugin-go@v0.29.0/tfprotov5/internal/diag/diagnostics.go:58 tf_proto_version=5.10 @module=sdk.proto timestamp="2026-02-19T23:39:49.211+0530"
+2026-02-19T23:39:49.224+0530 [ERROR] vertex "module.vpc.aws_vpc.main" error: expected cidr_block to contain a valid Value, got: var.vpc_cidr with err: invalid CIDR address: var.vpc_cidr
+2026-02-19T23:39:49.266+0530 [INFO]  provider: plugin process exited: plugin=.terraform/providers/registry.terraform.io/hashicorp/aws/6.33.0/windows_amd64/terraform-provider-aws_v6.33.0_x5.exe id=12372
+2026-02-19T23:49:44.038+0530 [INFO]  Terraform version: 1.9.4
+2026-02-19T23:49:44.052+0530 [INFO]  Go runtime version: go1.22.5
+2026-02-19T23:49:44.052+0530 [INFO]  CLI args: []string{"C:\\Users\\Admin\\Downloads\\terraform_1.9.4_windows_amd64\\terraform.exe", "plan"}
+2026-02-19T23:49:44.061+0530 [INFO]  CLI command args: []string{"plan"}
+2026-02-19T23:49:44.219+0530 [INFO]  backend-s3.aws-base: Retrieved credentials: tf_backend.operation=Configure tf_backend.req_id=7da51854-ee1d-a103-a33a-dc8cbd6451ca tf_backend.s3.bucket=s3-remotestate-terraform tf_backend.s3.path=vpc-module-state tf_aws.credentials_source="SharedConfigCredentials: C:\Users\Admin\.aws\credentials"
+2026-02-19T23:49:45.873+0530 [INFO]  backend-s3.aws-base: Retrieved caller identity from STS: tf_backend.operation=Configure tf_backend.req_id=7da51854-ee1d-a103-a33a-dc8cbd6451ca tf_backend.s3.bucket=s3-remotestate-terraform tf_backend.s3.path=vpc-module-state
+2026-02-19T23:49:46.154+0530 [INFO]  backend-s3.aws-base: Retrieved caller identity from STS: tf_backend.operation=Configure tf_backend.req_id=7da51854-ee1d-a103-a33a-dc8cbd6451ca tf_backend.s3.bucket=s3-remotestate-terraform tf_backend.s3.path=vpc-module-state
+2026-02-19T23:49:56.016+0530 [INFO]  backend/local: starting Plan operation
+2026-02-19T23:49:57.077+0530 [INFO]  backend-s3: Downloading remote state: tf_backend.operation=Get tf_backend.req_id=85e9ea07-9258-277f-07c4-ba21d26382d5 tf_backend.s3.bucket=s3-remotestate-terraform tf_backend.s3.path=vpc-module-state
+2026-02-19T23:49:57.423+0530 [INFO]  provider: configuring client automatic mTLS
+2026-02-19T23:50:40.281+0530 [INFO]  provider.terraform-provider-aws_v6.33.0_x5.exe: configuring server automatic mTLS: timestamp="2026-02-19T23:50:40.276+0530"
+2026-02-19T23:51:08.389+0530 [INFO]  provider: plugin process exited: plugin=.terraform/providers/registry.terraform.io/hashicorp/aws/6.33.0/windows_amd64/terraform-provider-aws_v6.33.0_x5.exe id=5044
+2026-02-19T23:51:08.467+0530 [INFO]  provider: configuring client automatic mTLS
+2026-02-19T23:51:09.301+0530 [INFO]  provider.terraform-provider-aws_v6.33.0_x5.exe: configuring server automatic mTLS: timestamp="2026-02-19T23:51:09.299+0530"
+2026-02-19T23:51:15.506+0530 [ERROR] provider.terraform-provider-aws_v6.33.0_x5.exe: Response contains error diagnostic: diagnostic_attribute="AttributeName(\"cidr_block\")" tf_provider_addr=registry.terraform.io/hashicorp/aws tf_rpc=ValidateResourceTypeConfig @caller=github.com/hashicorp/terraform-plugin-go@v0.29.0/tfprotov5/internal/diag/diagnostics.go:58 diagnostic_severity=ERROR tf_resource_type=aws_vpc @module=sdk.proto diagnostic_summary="expected cidr_block to contain a valid Value, got: var.vpc_cidr with err: invalid CIDR address: var.vpc_cidr" tf_proto_version=5.10 tf_req_id=815910e2-2673-6745-718d-e8dd929c6966 diagnostic_detail="" timestamp="2026-02-19T23:51:15.504+0530"
+2026-02-19T23:51:16.160+0530 [ERROR] vertex "module.vpc.aws_vpc.main" error: expected cidr_block to contain a valid Value, got: var.vpc_cidr with err: invalid CIDR address: var.vpc_cidr
+2026-02-19T23:51:16.241+0530 [INFO]  provider: plugin process exited: plugin=.terraform/providers/registry.terraform.io/hashicorp/aws/6.33.0/windows_amd64/terraform-provider-aws_v6.33.0_x5.exe id=10140
+2026-02-19T23:53:48.528+0530 [INFO]  Terraform version: 1.9.4
+2026-02-19T23:53:48.529+0530 [INFO]  Go runtime version: go1.22.5
+2026-02-19T23:53:48.529+0530 [INFO]  CLI args: []string{"C:\\Users\\Admin\\Downloads\\terraform_1.9.4_windows_amd64\\terraform.exe", "plan"}
+2026-02-19T23:53:48.539+0530 [INFO]  CLI command args: []string{"plan"}
+2026-02-19T23:53:48.549+0530 [INFO]  backend-s3.aws-base: Retrieved credentials: tf_backend.operation=Configure tf_backend.req_id=f2c9e193-7f47-f4e0-6b99-a85d752c6e9c tf_backend.s3.bucket=s3-remotestate-terraform tf_backend.s3.path=vpc-module-state tf_aws.credentials_source="SharedConfigCredentials: C:\Users\Admin\.aws\credentials"
+2026-02-19T23:53:50.014+0530 [INFO]  backend-s3.aws-base: Retrieved caller identity from STS: tf_backend.operation=Configure tf_backend.req_id=f2c9e193-7f47-f4e0-6b99-a85d752c6e9c tf_backend.s3.bucket=s3-remotestate-terraform tf_backend.s3.path=vpc-module-state
+2026-02-19T23:53:50.281+0530 [INFO]  backend-s3.aws-base: Retrieved caller identity from STS: tf_backend.operation=Configure tf_backend.req_id=f2c9e193-7f47-f4e0-6b99-a85d752c6e9c tf_backend.s3.bucket=s3-remotestate-terraform tf_backend.s3.path=vpc-module-state
+2026-02-19T23:53:58.591+0530 [INFO]  backend/local: starting Plan operation
+2026-02-19T23:53:59.938+0530 [INFO]  backend-s3: Downloading remote state: tf_backend.operation=Get tf_backend.req_id=ae456577-478b-fcb6-2885-60ec2dcb4c07 tf_backend.s3.bucket=s3-remotestate-terraform tf_backend.s3.path=vpc-module-state
+2026-02-19T23:54:00.325+0530 [INFO]  provider: configuring client automatic mTLS
+2026-02-19T23:54:13.748+0530 [INFO]  provider.terraform-provider-aws_v6.33.0_x5.exe: configuring server automatic mTLS: timestamp="2026-02-19T23:54:13.738+0530"
+2026-02-19T23:54:29.259+0530 [INFO]  provider: plugin process exited: plugin=.terraform/providers/registry.terraform.io/hashicorp/aws/6.33.0/windows_amd64/terraform-provider-aws_v6.33.0_x5.exe id=6712
+2026-02-19T23:54:29.344+0530 [INFO]  provider: configuring client automatic mTLS
+2026-02-19T23:54:31.296+0530 [INFO]  provider.terraform-provider-aws_v6.33.0_x5.exe: configuring server automatic mTLS: timestamp="2026-02-19T23:54:31.295+0530"
+2026-02-19T23:54:31.669+0530 [INFO]  provider: plugin process exited: plugin=.terraform/providers/registry.terraform.io/hashicorp/aws/6.33.0/windows_amd64/terraform-provider-aws_v6.33.0_x5.exe id=252
+2026-02-19T23:54:31.670+0530 [INFO]  backend/local: plan calling Plan
+2026-02-19T23:54:31.683+0530 [INFO]  provider: configuring client automatic mTLS
+2026-02-19T23:54:32.222+0530 [INFO]  provider.terraform-provider-aws_v6.33.0_x5.exe: configuring server automatic mTLS: timestamp="2026-02-19T23:54:32.221+0530"
+2026-02-19T23:54:33.017+0530 [INFO]  provider.terraform-provider-aws_v6.33.0_x5.exe: Retrieved credentials: @caller=github.com/hashicorp/aws-sdk-go-base/v2@v2.0.0-beta.70/logging/tf_logger.go:39 tf_aws.credentials_source="SharedConfigCredentials: C:\Users\Admin\.aws\credentials" tf_mux_provider="*schema.GRPCProviderServer" tf_req_id=fa81ce4f-b48a-f201-0ff5-41adf421052e tf_rpc=ConfigureProvider @module=aws.aws-base tf_provider_addr=registry.terraform.io/hashicorp/aws timestamp="2026-02-19T23:54:33.017+0530"
+2026-02-19T23:54:35.373+0530 [INFO]  provider.terraform-provider-aws_v6.33.0_x5.exe: Retrieved caller identity from STS: @module=aws.aws-base tf_mux_provider="*schema.GRPCProviderServer" tf_provider_addr=registry.terraform.io/hashicorp/aws tf_req_id=fa81ce4f-b48a-f201-0ff5-41adf421052e tf_rpc=ConfigureProvider @caller=github.com/hashicorp/aws-sdk-go-base/v2@v2.0.0-beta.70/logging/tf_logger.go:39 timestamp="2026-02-19T23:54:35.373+0530"
+2026-02-19T23:54:35.710+0530 [WARN]  Provider "registry.terraform.io/hashicorp/aws" produced an invalid plan for module.vpc.aws_vpc.main, but we are tolerating it because it is using the legacy plugin SDK.
+    The following problems may be the cause of any confusing errors from downstream operations:
+      - .enable_dns_support: planned value cty.True for a non-computed attribute
+2026-02-19T23:54:35.776+0530 [INFO]  provider: plugin process exited: plugin=.terraform/providers/registry.terraform.io/hashicorp/aws/6.33.0/windows_amd64/terraform-provider-aws_v6.33.0_x5.exe id=6536
+2026-02-19T23:54:35.784+0530 [INFO]  backend/local: plan operation completed
+2026-02-20T00:01:18.787+0530 [INFO]  Terraform version: 1.9.4
+2026-02-20T00:01:18.787+0530 [INFO]  Go runtime version: go1.22.5
+2026-02-20T00:01:18.787+0530 [INFO]  CLI args: []string{"C:\\Users\\Admin\\Downloads\\terraform_1.9.4_windows_amd64\\terraform.exe", "plan"}
+2026-02-20T00:01:18.795+0530 [INFO]  CLI command args: []string{"plan"}
+2026-02-20T00:01:18.816+0530 [INFO]  backend-s3.aws-base: Retrieved credentials: tf_backend.operation=Configure tf_backend.req_id=39dd86d0-ec0d-23c2-0555-579a71d2eea2 tf_backend.s3.bucket=s3-remotestate-terraform tf_backend.s3.path=vpc-module-state tf_aws.credentials_source="SharedConfigCredentials: C:\Users\Admin\.aws\credentials"
+2026-02-20T00:01:20.661+0530 [INFO]  backend-s3.aws-base: Retrieved caller identity from STS: tf_backend.operation=Configure tf_backend.req_id=39dd86d0-ec0d-23c2-0555-579a71d2eea2 tf_backend.s3.bucket=s3-remotestate-terraform tf_backend.s3.path=vpc-module-state
+2026-02-20T00:01:20.957+0530 [INFO]  backend-s3.aws-base: Retrieved caller identity from STS: tf_backend.operation=Configure tf_backend.req_id=39dd86d0-ec0d-23c2-0555-579a71d2eea2 tf_backend.s3.bucket=s3-remotestate-terraform tf_backend.s3.path=vpc-module-state
+2026-02-20T00:01:28.791+0530 [INFO]  backend/local: starting Plan operation
+2026-02-20T00:01:29.868+0530 [INFO]  backend-s3: Downloading remote state: tf_backend.operation=Get tf_backend.req_id=5afb2bd3-317d-805d-24a9-4431bf8a9f95 tf_backend.s3.bucket=s3-remotestate-terraform tf_backend.s3.path=vpc-module-state
+2026-02-20T00:01:30.242+0530 [INFO]  provider: configuring client automatic mTLS
+2026-02-20T00:01:34.169+0530 [INFO]  provider.terraform-provider-aws_v6.33.0_x5.exe: configuring server automatic mTLS: timestamp="2026-02-20T00:01:34.168+0530"
+2026-02-20T00:01:52.040+0530 [INFO]  provider: plugin process exited: plugin=.terraform/providers/registry.terraform.io/hashicorp/aws/6.33.0/windows_amd64/terraform-provider-aws_v6.33.0_x5.exe id=4968
+2026-02-20T00:01:52.129+0530 [INFO]  provider: configuring client automatic mTLS
+2026-02-20T00:01:55.056+0530 [INFO]  provider.terraform-provider-aws_v6.33.0_x5.exe: configuring server automatic mTLS: timestamp="2026-02-20T00:01:55.054+0530"
+2026-02-20T00:01:55.539+0530 [INFO]  provider: plugin process exited: plugin=.terraform/providers/registry.terraform.io/hashicorp/aws/6.33.0/windows_amd64/terraform-provider-aws_v6.33.0_x5.exe id=17072
+2026-02-20T00:01:55.540+0530 [INFO]  backend/local: plan calling Plan
+2026-02-20T00:01:55.555+0530 [INFO]  provider: configuring client automatic mTLS
+2026-02-20T00:01:56.064+0530 [INFO]  provider.terraform-provider-aws_v6.33.0_x5.exe: configuring server automatic mTLS: timestamp="2026-02-20T00:01:56.063+0530"
+2026-02-20T00:01:56.413+0530 [INFO]  provider.terraform-provider-aws_v6.33.0_x5.exe: Retrieved credentials: @module=aws.aws-base tf_aws.credentials_source="SharedConfigCredentials: C:\Users\Admin\.aws\credentials" tf_mux_provider="*schema.GRPCProviderServer" tf_req_id=6fdc8d71-5b64-c47e-bfb7-51cce2fb63c3 @caller=github.com/hashicorp/aws-sdk-go-base/v2@v2.0.0-beta.70/logging/tf_logger.go:39 tf_provider_addr=registry.terraform.io/hashicorp/aws tf_rpc=ConfigureProvider timestamp="2026-02-20T00:01:56.413+0530"
+2026-02-20T00:01:57.988+0530 [INFO]  provider.terraform-provider-aws_v6.33.0_x5.exe: Retrieved caller identity from STS: tf_mux_provider="*schema.GRPCProviderServer" tf_provider_addr=registry.terraform.io/hashicorp/aws tf_req_id=6fdc8d71-5b64-c47e-bfb7-51cce2fb63c3 tf_rpc=ConfigureProvider @caller=github.com/hashicorp/aws-sdk-go-base/v2@v2.0.0-beta.70/logging/tf_logger.go:39 @module=aws.aws-base timestamp="2026-02-20T00:01:57.988+0530"
+2026-02-20T00:01:58.058+0530 [WARN]  Provider "registry.terraform.io/hashicorp/aws" produced an invalid plan for module.vpc.aws_vpc.main, but we are tolerating it because it is using the legacy plugin SDK.
+    The following problems may be the cause of any confusing errors from downstream operations:
+      - .enable_dns_support: planned value cty.True for a non-computed attribute
+2026-02-20T00:01:58.110+0530 [INFO]  provider: plugin process exited: plugin=.terraform/providers/registry.terraform.io/hashicorp/aws/6.33.0/windows_amd64/terraform-provider-aws_v6.33.0_x5.exe id=5856
+2026-02-20T00:01:58.122+0530 [INFO]  backend/local: plan operation completed
+2026-02-20T00:08:29.367+0530 [INFO]  Terraform version: 1.9.4
+2026-02-20T00:08:29.368+0530 [INFO]  Go runtime version: go1.22.5
+2026-02-20T00:08:29.368+0530 [INFO]  CLI args: []string{"C:\\Users\\Admin\\Downloads\\terraform_1.9.4_windows_amd64\\terraform.exe", "plan"}
+2026-02-20T00:08:29.377+0530 [INFO]  CLI command args: []string{"plan"}
+2026-02-20T00:08:29.382+0530 [INFO]  backend-s3.aws-base: Retrieved credentials: tf_backend.operation=Configure tf_backend.req_id=006c2beb-d3ef-1b3a-ab69-c9c46bb61da9 tf_backend.s3.bucket=s3-remotestate-terraform tf_backend.s3.path=vpc-module-state tf_aws.credentials_source="SharedConfigCredentials: C:\Users\Admin\.aws\credentials"
+2026-02-20T00:08:31.047+0530 [INFO]  backend-s3.aws-base: Retrieved caller identity from STS: tf_backend.operation=Configure tf_backend.req_id=006c2beb-d3ef-1b3a-ab69-c9c46bb61da9 tf_backend.s3.bucket=s3-remotestate-terraform tf_backend.s3.path=vpc-module-state
+2026-02-20T00:08:31.341+0530 [INFO]  backend-s3.aws-base: Retrieved caller identity from STS: tf_backend.operation=Configure tf_backend.req_id=006c2beb-d3ef-1b3a-ab69-c9c46bb61da9 tf_backend.s3.bucket=s3-remotestate-terraform tf_backend.s3.path=vpc-module-state
+2026-02-20T00:08:38.804+0530 [INFO]  backend/local: starting Plan operation
+2026-02-20T00:08:40.050+0530 [INFO]  backend-s3: Downloading remote state: tf_backend.operation=Get tf_backend.req_id=533863fc-54af-9890-f79e-568887aaf36e tf_backend.s3.bucket=s3-remotestate-terraform tf_backend.s3.path=vpc-module-state
+2026-02-20T00:08:40.439+0530 [INFO]  provider: configuring client automatic mTLS
+2026-02-20T00:08:44.252+0530 [INFO]  provider.terraform-provider-aws_v6.33.0_x5.exe: configuring server automatic mTLS: timestamp="2026-02-20T00:08:44.252+0530"
+2026-02-20T00:09:05.271+0530 [INFO]  provider: plugin process exited: plugin=.terraform/providers/registry.terraform.io/hashicorp/aws/6.33.0/windows_amd64/terraform-provider-aws_v6.33.0_x5.exe id=13836
+2026-02-20T00:09:05.363+0530 [INFO]  provider: configuring client automatic mTLS
+2026-02-20T00:09:06.289+0530 [INFO]  provider.terraform-provider-aws_v6.33.0_x5.exe: configuring server automatic mTLS: timestamp="2026-02-20T00:09:06.288+0530"
+2026-02-20T00:09:06.634+0530 [INFO]  provider: plugin process exited: plugin=.terraform/providers/registry.terraform.io/hashicorp/aws/6.33.0/windows_amd64/terraform-provider-aws_v6.33.0_x5.exe id=1220
+2026-02-20T00:09:06.634+0530 [INFO]  backend/local: plan calling Plan
+2026-02-20T00:09:06.653+0530 [INFO]  provider: configuring client automatic mTLS
+2026-02-20T00:09:07.207+0530 [INFO]  provider.terraform-provider-aws_v6.33.0_x5.exe: configuring server automatic mTLS: timestamp="2026-02-20T00:09:07.206+0530"
+2026-02-20T00:09:07.976+0530 [INFO]  provider.terraform-provider-aws_v6.33.0_x5.exe: Retrieved credentials: @module=aws.aws-base tf_aws.credentials_source="SharedConfigCredentials: C:\Users\Admin\.aws\credentials" tf_mux_provider="*schema.GRPCProviderServer" tf_req_id=280b6d54-6817-78e9-4b49-660f05bb6d30 @caller=github.com/hashicorp/aws-sdk-go-base/v2@v2.0.0-beta.70/logging/tf_logger.go:39 tf_provider_addr=registry.terraform.io/hashicorp/aws tf_rpc=ConfigureProvider timestamp="2026-02-20T00:09:07.968+0530"
+2026-02-20T00:09:10.292+0530 [INFO]  provider.terraform-provider-aws_v6.33.0_x5.exe: Retrieved caller identity from STS: tf_req_id=280b6d54-6817-78e9-4b49-660f05bb6d30 tf_rpc=ConfigureProvider tf_mux_provider="*schema.GRPCProviderServer" @module=aws.aws-base tf_provider_addr=registry.terraform.io/hashicorp/aws @caller=github.com/hashicorp/aws-sdk-go-base/v2@v2.0.0-beta.70/logging/tf_logger.go:39 timestamp="2026-02-20T00:09:10.282+0530"
+2026-02-20T00:09:10.658+0530 [WARN]  Provider "registry.terraform.io/hashicorp/aws" produced an invalid plan for module.vpc.aws_vpc.main, but we are tolerating it because it is using the legacy plugin SDK.
+    The following problems may be the cause of any confusing errors from downstream operations:
+      - .enable_dns_support: planned value cty.True for a non-computed attribute
+2026-02-20T00:09:10.727+0530 [INFO]  provider: plugin process exited: plugin=.terraform/providers/registry.terraform.io/hashicorp/aws/6.33.0/windows_amd64/terraform-provider-aws_v6.33.0_x5.exe id=9120
+2026-02-20T00:09:10.734+0530 [INFO]  backend/local: plan operation completed

@@ -2,7 +2,7 @@ terraform {
   required_providers {
     aws = {
       source  = "hashicorp/aws"
-      version = "~> 6.0 "
+      version = "6.33.0"
     }
   }
      
@@ -10,7 +10,7 @@ terraform {
     bucket = "s3-remotestate-terraform"
     key    = "vpc-module-state"
     region = "us-east-1"
-    use_lockfile = true
+    # use_lockfile = true
     encrypt = true
   }
 }
